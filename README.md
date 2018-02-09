@@ -1,0 +1,2 @@
+# unplist_in_python3
+该项目为使用python3 通过.plist将合图png分解为各个小精灵图
